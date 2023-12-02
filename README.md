@@ -3,8 +3,8 @@
 - Python is my first programming language learned. Got lots of theory but I was always more of practical guy.
 - Hopefully I will be able to contribute to this great site, altough superrrr new to Git (and still feel heavily intimidated by not pressing something wrong)...
 - 
-- 🌱 I’m currently learning Python and scratched C a little though just reading about it. Wanted to get a grasp of how it works, nothing big.
-- 💞️ I’m looking to collaborate on Matplotlib. :D
+- 🌱 PF member.
+- 💞️ I’m looking for collab on all kinds of projects!
 - 📫 How to reach me -> ping me here!
 
 <!---
