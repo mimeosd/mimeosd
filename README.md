@@ -3,7 +3,7 @@
 - 🌱 PF member.
 - 💞️ I’m looking for collab on all kinds of projects!
 - 📫 How to reach me -> ping me here!
-www.krupno-sitno.com
+
 
 <!---
 mimeosd/mimeosd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
